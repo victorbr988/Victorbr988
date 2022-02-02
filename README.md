@@ -1,13 +1,13 @@
 ### Olá!, eu me chamo Victor Gabriel
 
-- 🔭 Eu estou estudante na <a href="http://betrybe.com">Trybe</a>
+- 🔭 Eu estou estudando na <a href="http://betrybe.com">Trybe</a>
 - 🌱 Estudo desenvolvimento web full stack
 - 😄 Pronouns: ele/dele
 <hr>
 <div style="display: inlie-block">
   <a href="https://github.com/victorbr988">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorbr988&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbr988&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorbr988&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbr988&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline-block"><br>
