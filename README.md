@@ -1,7 +1,7 @@
 ### Olá!, eu me chamo Victor Gabriel
 
 - 🔭 Eu estou estudando na <a href="http://betrybe.com">Trybe</a>
-- 🌱 Estudo desenvolvimento web full stack
+- 🌱 Desenvolvedor Front-End
 - 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/victorbr988">
