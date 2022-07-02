@@ -1,8 +1,7 @@
 ### Olá!, eu me chamo Victor Gabriel
 
-- 🔭 Eu estou estudando na <a href="http://betrybe.com">Trybe</a>
-- 🌱 Desenvolvedor Front-End
-- 😄 Pronouns: ele/dele
+- Sou um desenvolvedor Front End focado em experiência de usuário. Meus hobbies incluem assistir filmes e séries, mas também gosto de criar projetinhos para me manter em dia com meus conhecimentos.
+
 <div align="center">
   <a href="https://github.com/victorbr988">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=victorbr988&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
