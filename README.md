@@ -1,6 +1,6 @@
 ### Olá!, eu me chamo Victor Gabriel
 
-- Sou um desenvolvedor Front End focado em experiência de usuário. Meus hobbies incluem assistir filmes e séries, mas também gosto de criar projetinhos para me manter em dia com meus conhecimentos.
+- Sou um desenvolvedor Front End focado em experiência de usuário. Meus hobbies incluem assistir filmes e séries, mas também gosto de criar projetinhos para me manter em dia com meus conhecimentos. Me tornei desenvolvedor para impactar pessoas de maneira positiva utilizando tecnologia.
 
 <div align="center">
   <a href="https://github.com/victorbr988">
