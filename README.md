@@ -17,9 +17,12 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=Typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
+![MySql](https://img.shields.io/badge/-Mysql-blue?style=flat-square&logo=Mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=Vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-5849BE?style=flat-square&logo=docker&logoColor=blue)
+![Redux](https://img.shields.io/badge/-Redux-red?style=flat-square&logo=redux&logoColor=white)
+![Redux-Saga](https://img.shields.io/badge/-ReduxSaga-green?style=flat-square&logo=ReduxSaga&logoColor=blue)
 
 ### 🔎 Onde me encontrar
 
