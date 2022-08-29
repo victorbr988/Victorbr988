@@ -23,6 +23,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-5849BE?style=flat-square&logo=docker&logoColor=blue)
 ![Redux](https://img.shields.io/badge/-Redux-red?style=flat-square&logo=redux&logoColor=white)
 ![Redux-Saga](https://img.shields.io/badge/-ReduxSaga-green?style=flat-square&logo=ReduxSaga&logoColor=blue)
+![Jest](https://img.shields.io/badge/-Jest-red?style=flat-square&logo=Jest&logoColor=white)
 
 ### 🔎 Onde me encontrar
 
