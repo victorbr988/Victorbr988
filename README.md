@@ -1,6 +1,6 @@
 ### Olá!, eu me chamo Victor Gabriel
 
-- Sou um desenvolvedor Front End focado em experiência de usuário. Meus hobbies incluem assistir filmes e séries, mas também gosto de criar projetinhos para me manter em dia com meus conhecimentos. Me tornei desenvolvedor para impactar pessoas de maneira positiva utilizando tecnologia.
+- Sou um desenvolvedor FullStack focado em trazer soluções impactantes. Meus hobbies incluem assistir filmes e séries, mas também gosto de criar projetinhos para me manter em dia com meus conhecimentos. Me tornei desenvolvedor para impactar pessoas de maneira positiva utilizando tecnologia. Construí mais de 30 projetos e venho constantemente evoluindo minhas habilidade e me desafiando técnicamente.
 
 <div align="center">
   <a href="https://github.com/victorbr988">
