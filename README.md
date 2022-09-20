@@ -6,7 +6,7 @@
 
 -----
 
-- Sou um desenvolvedor FullStack focado em trazer soluções impactantes. Sou graduando em Análise e desenvolvimento de sistemas. Meus hobbies incluem assistir filmes e séries, mas também gosto de criar projetinhos para me manter em dia com meus conhecimentos. Me tornei desenvolvedor para impactar pessoas de maneira positiva utilizando tecnologia. Construí mais de 30 projetos e venho constantemente evoluindo minhas habilidades e me desafiando técnicamente.
+- Sou um desenvolvedor FullStack focado em trazer soluções impactantes. Sou graduando em Análise e desenvolvimento de sistemas. Meus hobbies incluem assistir filmes e séries, mas também gosto de criar projetinhos para me manter em dia com meus conhecimentos. Me tornei desenvolvedor para impactar pessoas de maneira positiva utilizando tecnologia. Construí mais de 20 projetos e venho constantemente evoluindo minhas habilidades e me desafiando técnicamente.
 
 <div align="center">
   <a href="https://github.com/victorbr988">
