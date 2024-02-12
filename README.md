@@ -1,7 +1,7 @@
 ### Olá 🖖!, eu me chamo Victor Gabriel👨‍💻
 
 <div>
-<img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/header.png"/>
+<img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header.png"/>
 </div>
 
 -----
