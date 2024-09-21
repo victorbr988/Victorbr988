@@ -1,6 +1,6 @@
 <h1>Victor Gabriel</h1>
 
-### Desenvolvedor de Software à mais de 2 anos atuando como desenvolvedor FullStack, experiência em desenvolvimento de aplicações web com frameworks como React, Vue, NextJS, NestJS, ExpressJS, NodeJS e .NET
+### Desenvolvedor de Software à mais de 2 anos atuando como desenvolvedor FullStack, experiência em desenvolvimento de aplicações web com frameworks como React, Vue, NextJS, NestJS, ExpressJS, NodeJS e .NET. Experiência na construção de automações que usam serviços como S3 da AWS para armazenar arquivos, experiência na construção e manutenção de microsserviços .NET.
 
 <h2>Empresas que trabalhei</h2>
 
