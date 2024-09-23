@@ -4,14 +4,16 @@
 
 <h2>Empresas que trabalhei</h2>
 
- - [Treetech Sistemas Digitais]("https://www.treetech.com.br/")
- - [IngaCode]("https://ingacode.com.br/")
+- <a href="https://www.treetech.com.br/">Treetech Sistemas Digitais</a>
+- <a href="https://ingacode.com.br/">IngaCode</a>
+
 
 <h2>Projetos reais que já desenvolvi</h2>
 
- - [Plataforma para comunidade]("https://events.semeatech.com.br/")
- - [Viana & Moura construções]("https://vm.semeatech.com.br/")
- - [IAUU]("https://app.iauu.com.br/")
+- <a href="https://events.semeatech.com.br/">Plataforma para comunidade</a>
+- <a href="https://vm.semeatech.com.br/">Viana & Moura construções</a>
+- <a href="https://app.iauu.com.br/">IAUU</a>
+
 
 <h2>Tecnologias que mais utilizei</h2> 
 
@@ -19,9 +21,8 @@
 
 ## Artigos escritos
 
- - [Trabalhando com cookies utilizando NestJs e NextJs]("https://www.linkedin.com/pulse/enviando-cookies-para-o-cliente-utilizando-nestjs-e-nextjs-gabriel-qpq3f/")
-
- - [Como construir componentes de maneira mais reutilizável com pattern de composição]("https://www.linkedin.com/pulse/como-construir-componentes-de-maneira-mais-com-pattern-victor-gabriel-xwr1f/")
+- <a href="https://www.linkedin.com/pulse/enviando-cookies-para-o-cliente-utilizando-nestjs-e-nextjs-gabriel-qpq3f/">Trabalhando com cookies utilizando NestJs e NextJs</a>
+- <a href="https://www.linkedin.com/pulse/como-construir-componentes-de-maneira-mais-com-pattern-victor-gabriel-xwr1f/">Como construir componentes de maneira mais reutilizável com pattern de composição</a>]
 
 <hr>
   <a href="https://instagram.com/gab_ulquiorrasbtn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
